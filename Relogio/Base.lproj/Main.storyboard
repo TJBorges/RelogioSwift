@@ -33,9 +33,9 @@
                                     <action selector="IniciarContagem:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yRS-Sa-V5G"/>
                                 </connections>
                             </button>
-                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="S" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wMG-yL-fLy">
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wMG-yL-fLy">
                                 <rect key="frame" x="158" y="524" width="98" height="119"/>
-                                <fontDescription key="fontDescription" type="boldSystem" pointSize="27"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="42"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>

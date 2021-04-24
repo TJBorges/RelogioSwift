@@ -13,7 +13,6 @@
 		572074182627B25100E1A743 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 572074162627B25100E1A743 /* Main.storyboard */; };
 		5720741A2627B25200E1A743 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 572074192627B25200E1A743 /* Assets.xcassets */; };
 		5720741D2627B25200E1A743 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5720741B2627B25200E1A743 /* LaunchScreen.storyboard */; };
-		572291BD263242A3006FE7E8 /* Cronometro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 572291BC263242A3006FE7E8 /* Cronometro.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		572074192627B25200E1A743 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5720741C2627B25200E1A743 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5720741E2627B25300E1A743 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		572291BC263242A3006FE7E8 /* Cronometro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cronometro.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +59,6 @@
 				572074102627B25100E1A743 /* AppDelegate.swift */,
 				572074122627B25100E1A743 /* SceneDelegate.swift */,
 				572074142627B25100E1A743 /* ViewController.swift */,
-				572291BC263242A3006FE7E8 /* Cronometro.swift */,
 				572074162627B25100E1A743 /* Main.storyboard */,
 				572074192627B25200E1A743 /* Assets.xcassets */,
 				5720741B2627B25200E1A743 /* LaunchScreen.storyboard */,
@@ -144,7 +141,6 @@
 				572074152627B25100E1A743 /* ViewController.swift in Sources */,
 				572074112627B25100E1A743 /* AppDelegate.swift in Sources */,
 				572074132627B25100E1A743 /* SceneDelegate.swift in Sources */,
-				572291BD263242A3006FE7E8 /* Cronometro.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
